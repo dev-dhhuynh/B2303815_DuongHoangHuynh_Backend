@@ -91,12 +91,7 @@ const seed = async () => {
         TenNXB: "NXB Kim Đồng",
         DiaChi: "TP.HCM",
       },
-      {
-        _id: FIXED_IDS.NXB.NXB003,
-        MaNXB: "NXB003",
-        TenNXB: "NXB Trẻ",
-        DiaChi: "Hà Nội",
-      },
+
       {
         _id: FIXED_IDS.NXB.NXB004,
         MaNXB: "NXB004",
